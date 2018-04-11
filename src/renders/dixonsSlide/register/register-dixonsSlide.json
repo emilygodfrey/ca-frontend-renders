@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsSlide/content-type/dixonsSlide.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsSlide/content-type/dixonsSlide.json",
   "settings": {
     "label": "Dixons Slide",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsSlide/icon/icon-dixonsSlide.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsSlide/icon/icon-dixonsSlide.png"
       }
     ],
     "visualizations": [

@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsInspireblock/content-type/dixonsInspireblock.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsInspireblock/content-type/dixonsInspireblock.json",
   "settings": {
     "label": "Dixons Inspire Block",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsInspireblock/icon/icon-dixonsInspireblock.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsInspireblock/icon/icon-dixonsInspireblock.png"
       }
     ],
     "visualizations": [

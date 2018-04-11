@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/blogList/content-type/blogList.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/blogList/content-type/blogList.json",
   "settings": {
     "label": "Blog List",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/blogList/icon/icon-blogList.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/blogList/icon/icon-blogList.png"
       }
     ],
     "visualizations": [

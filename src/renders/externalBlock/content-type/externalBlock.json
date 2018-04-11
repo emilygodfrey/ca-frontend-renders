@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/externalBlock/content-type/externalBlock.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/externalBlock/content-type/externalBlock.json",
   "title": "External Block",
   "description": "A content type which can be used to enter any content (HTML, iFrame etc)",
   "allOf": [

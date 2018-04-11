@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsQuicklink/content-type/dixonsQuicklink.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsQuicklink/content-type/dixonsQuicklink.json",
   "settings": {
     "label": "Dixons Quicklink",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsQuicklink/icon/icon-dixonsQuicklink.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsQuicklink/icon/icon-dixonsQuicklink.png"
       }
     ],
     "visualizations": [

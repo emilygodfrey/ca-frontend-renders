@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsBrandBlock/content-type/dixonsBrandBlock.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsBrandBlock/content-type/dixonsBrandBlock.json",
   "settings": {
     "label": "Dixons Brand Block",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsBrandBlock/icon/icon-dixonsBrandBlock.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsBrandBlock/icon/icon-dixonsBrandBlock.png"
       }
     ],
     "visualizations": [

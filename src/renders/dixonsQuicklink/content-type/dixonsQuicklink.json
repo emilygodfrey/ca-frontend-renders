@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsQuicklink/content-type/dixonsQuicklink.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsQuicklink/content-type/dixonsQuicklink.json",
   "title": "Dixons Quick Link",
   "description": "A Quicklink",
   "allOf": [
@@ -49,7 +49,7 @@
       "description": "The link for this slide. Note that the label will not be displayed",
       "allOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/link/content-type/link.json"
+          "$ref": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/link/content-type/link.json"
         }
       ],
       "_interpolate": true

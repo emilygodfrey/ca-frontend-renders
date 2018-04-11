@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/blogSnippet/content-type/blogSnippet.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/blogSnippet/content-type/blogSnippet.json",
   "title": "Blog Snippet",
   "description": "Key information for indexing and displaying a blog post",
   "allOf": [
@@ -23,7 +23,7 @@
             "contentType": {
               "title": "",
               "enum": [
-                "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/image/content-type/image.json"
+                "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/image/content-type/image.json"
               ]
             }
           }
@@ -52,7 +52,7 @@
       "description": "The location of the blog post",
       "anyOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/link/content-type/link.json"
+          "$ref": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/link/content-type/link.json"
         }
       ],
       "_interpolate": true

@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsCarousel/content-type/dixonsCarousel.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsCarousel/content-type/dixonsCarousel.json",
   "title": "Dixons Carousel",
   "description": "Carousel for Homepage",
   "allOf": [
@@ -24,8 +24,8 @@
               "contentType": {
                 "title": "",
                 "enum": [
-                  "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsSlide/content-type/dixonsSlide.json",
-                  "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsBanner/content-type/dixonsBanner.json"
+                  "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsSlide/content-type/dixonsSlide.json",
+                  "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsBanner/content-type/dixonsBanner.json"
                 ]
               }
             }

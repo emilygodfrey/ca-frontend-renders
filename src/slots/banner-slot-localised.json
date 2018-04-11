@@ -1,6 +1,6 @@
 {
     "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-    "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/slots/banner-slot-localised.json",
+    "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/slots/banner-slot-localised.json",
     "title": "Localised Banner Slot",
     "description": "Slot that allows a Banner by locale",
     "allOf": [
@@ -24,7 +24,7 @@
                     {
                         "title": "banner",
                         "enum": [
-                            "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/banner/content-type/banner.json"
+                            "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/banner/content-type/banner.json"
                         ]
                     }
                 }
@@ -44,7 +44,7 @@
                     {
                         "title": "banner",
                         "enum": [
-                            "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/banner/content-type/banner.json"
+                            "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/banner/content-type/banner.json"
                         ]
                     }
                 }
@@ -64,7 +64,7 @@
                     {
                         "title": "banner",
                         "enum": [
-                            "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/banner/content-type/banner.json"
+                            "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/banner/content-type/banner.json"
                         ]
                     }
                 }

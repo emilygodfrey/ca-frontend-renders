@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsDealblock/content-type/dixonsDealblock.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsDealblock/content-type/dixonsDealblock.json",
   "title": "Dixons Deal Block",
   "description": "A Dixons Deal Block",
   "allOf": [
@@ -34,7 +34,7 @@
       "description": "The link for this slide. Note that the label will not be displayed",
       "allOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/link/content-type/link.json"
+          "$ref": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/link/content-type/link.json"
         }
       ],
       "_interpolate": true

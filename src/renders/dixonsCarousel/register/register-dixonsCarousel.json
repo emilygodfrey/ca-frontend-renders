@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsCarousel/content-type/dixonsCarousel.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsCarousel/content-type/dixonsCarousel.json",
   "settings": {
     "label": "Dixons Carousel",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsCarousel/icon/icon-dixonsCarousel.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsCarousel/icon/icon-dixonsCarousel.png"
       }
     ],
     "visualizations": [

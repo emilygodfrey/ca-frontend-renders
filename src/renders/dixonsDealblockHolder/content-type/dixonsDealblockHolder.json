@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsDealblockHolder/content-type/dixonsDealblockHolder.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsDealblockHolder/content-type/dixonsDealblockHolder.json",
   "title": "Dixons Deal Block Holder",
   "description": "Contains Deals",
   "allOf": [
@@ -24,7 +24,7 @@
               "contentType": {
                 "title": "",
                 "enum": [
-                  "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsDealblock/content-type/dixonsDealblock.json"
+                  "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsDealblock/content-type/dixonsDealblock.json"
                 ]
               }
             }

@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsInspireblock/content-type/dixonsInspireblock.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsInspireblock/content-type/dixonsInspireblock.json",
   "title": "Dixons Inspire Block",
   "description": "A Dixons Inspire Block",
   "allOf": [
@@ -42,7 +42,7 @@
       "description": "The link for this Inspire block. Note that the label will not be displayed",
       "allOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/link/content-type/link.json"
+          "$ref": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/link/content-type/link.json"
         }
       ],
       "_interpolate": true

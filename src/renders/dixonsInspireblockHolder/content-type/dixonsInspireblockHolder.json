@@ -1,6 +1,6 @@
 {
   "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
-  "id": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsInspireblockHolder/content-type/dixonsInspireblockHolder.json",
+  "id": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsInspireblockHolder/content-type/dixonsInspireblockHolder.json",
   "title": "Dixons Inspire Block Holder",
   "description": "Contains Inspire blocks",
   "allOf": [
@@ -24,7 +24,7 @@
               "contentType": {
                 "title": "",
                 "enum": [
-                  "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsInspireblock/content-type/dixonsInspireblock.json"
+                  "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsInspireblock/content-type/dixonsInspireblock.json"
                 ]
               }
             }

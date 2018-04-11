@@ -1,11 +1,11 @@
 {
-  "contentTypeUri": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsDealblockHolder/content-type/dixonsDealblockHolder.json",
+  "contentTypeUri": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsDealblockHolder/content-type/dixonsDealblockHolder.json",
   "settings": {
     "label": "Dixons Deal Block Holder",
     "icons": [
       {
         "size": 512,
-        "url": "https://raw.githubusercontent.com/neilmistryamplience/ca-frontend-renders/master/src/renders/dixonsDealblockHolder/icon/icon-dixonsDealblockHolder.png"
+        "url": "https://raw.githubusercontent.com/emilygodfrey/ca-frontend-renders/master/src/renders/dixonsDealblockHolder/icon/icon-dixonsDealblockHolder.png"
       }
     ],
     "visualizations": [
